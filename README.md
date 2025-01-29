@@ -17,3 +17,10 @@ This project analyzes Superstore sales data to uncover insights and trends in sa
 
 -  **Data Analysis:** Excel
 -  **Data Visualization:** Tableau
+
+# Visualization
+**Tableau**
+Tableau Link[https://public.tableau.com/views/SuperstoreAnalysis_17375209841740/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
+
+-  **Dashboard Creation:** Used Tableau to build interactive dashboards that visualize key metrics in the Superstore dataset, including sales performance, customer segments, and product profitability.
+-  **Filters and Interactivity:** Integrated dynamic filters (e.g., region, category, time period) to allow users to explore sales trends, customer behavior, and inventory insights in real time.
